@@ -1,0 +1,11 @@
+h1 {text-align: center; font-family: "Arial"}
+
+h3 {text-align: center; font-family: "Arial"; font-style: italic;}
+
+div {width: 800px;
+  margin-left: auto;
+  margin-right: auto; 
+  font-family: "Arial"}
+
+ .graphs {width: 800px;} 
+
